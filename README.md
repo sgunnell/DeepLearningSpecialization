@@ -24,6 +24,7 @@ The specialization consists of five courses:
 - **Course Notes:** Detailed notes summarizing key concepts from lectures and readings.
 - **Programming Assignments:** My solutions to the programming assignments provided in the courses.
 - **Projects:** Implementations of significant projects related to deep learning applications.
+- **Quizzes:** I will not be uploading quiz answers
 
 ## 📝 How to Use This Repository
 
